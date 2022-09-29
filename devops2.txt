@@ -1,3 +1,5 @@
 this is a file which stores the data that is required to push and pull the data from repo.
 
-this will helps us to restore the data.
+
+it will be use full for the commands that are using here
+
