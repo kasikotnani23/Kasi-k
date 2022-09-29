@@ -1,1 +1,4 @@
 this is a new file
+
+this file contains sensitive information about the data we are using.
+
